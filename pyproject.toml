@@ -1,0 +1,6 @@
+[build-system]
+requires = ["setuptools", "wheel", "cmake"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+dlib = "^19.22.0"
